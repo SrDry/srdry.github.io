@@ -33,3 +33,11 @@ p{
     margin-top: 15px;
     margin-left: 18px; 
 }
+
+.button{
+    background-color: light-blue;
+    text-color: white;
+    margin: auto;
+    border-radius: 10px;
+    text-align: center;
+}

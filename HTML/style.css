@@ -35,10 +35,17 @@ p{
 }
 
 .button{
-    background-color: light-blue;
-    text-color: white;
+    background-color: white;
+    color: black;
     margin: auto;
-    margin-top: 10px;
+    margin-top: 20px;
     border-radius: 5px;
     text-align: center;
+    font-size: 20px;
+    transition-duration: 0.5s;
+}
+
+.button:hover{
+    background-color: #008CBA;
+    color: white;
 }

@@ -1,4 +1,4 @@
-Welcome to my first exercice for Frontend Mentor!
+Welcome to my first experiences coding with HYML & CSS!
 
 Feel free to comment any changes that will help me code better!
 
